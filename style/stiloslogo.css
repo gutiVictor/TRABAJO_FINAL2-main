@@ -1,0 +1,98 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #fff5d2;
+    font-family: 'Arial', sans-serif;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ 
+}
+
+.contenedorlogo{
+
+    text-align: center;
+    display: flex;
+
+}
+
+
+.logon {
+    width: 550px;  
+   
+}
+
+.logon img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.contenedorGlobal{
+    width: 450px;
+    height: 300px;
+    background:white;
+    text-align: center;
+}
+
+.contenedor {
+    text-align: center;
+   
+}
+
+.tituloinicial {
+    font-size: 18px;   
+    margin-bottom: 20px;
+    margin-top: 40px;
+    
+}
+
+.imputs {
+    margin-bottom: 35px;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.botoIngresar{
+    text-align: right;
+   margin-right: 45px;
+}
+
+.botoIngresar button {
+    background-color: #017BFC;
+    color: #fff;
+    padding: 10px 20px;  
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    
+}
+
+.botoIngresar button:hover {
+    background-color: #ecf0ec;
+    color: black;
+}
+
+/* Añadir estilos adicionales según sea necesario */
+
+
+
+
+
+
+
+
+
+
+
+
+
